@@ -1,0 +1,63 @@
+{
+  "site": {
+    "name": "David Ayodeji Adefioye",
+    "role": "Frontend & Mobile Developer | Computer Engineering Student | AI Evaluation Specialist",
+    "description": "Personal portfolio website introducing David Ayodeji Adefioye as a future Computer Engineer."
+  },
+  "projects": [
+    {
+      "id": "campusride",
+      "title": "CampusRide",
+      "date": "2026",
+      "category": "Mobile Application",
+      "description": "A campus transportation application that enables students to locate shuttle buses in real time and book rides efficiently.",
+      "image_url": "assets/images/profile.jpg",
+      "technologies": [
+        "React Native"
+      ],
+      "type": "Team Project"
+    },
+    {
+      "id": "lost-found-campus-board",
+      "title": "Lost & Found Campus Board",
+      "date": "2026",
+      "category": "Web Application",
+      "description": "A web application that allows students to report, search for, and recover lost items on campus.",
+      "image_url": "assets/images/profile.jpg",
+      "technologies": [
+        "React",
+        "Firebase Authentication",
+        "Firestore"
+      ]
+    },
+    {
+      "id": "donorlink",
+      "title": "DonorLink",
+      "date": "2026",
+      "category": "Mobile Application",
+      "description": "A blood donor application developed to connect donors with recipients, with contributions to frontend planning, system design discussions, documentation, and testing.",
+      "image_url": "assets/images/profile.jpg",
+      "technologies": [
+        "Mobile Development"
+      ],
+      "type": "Team Project"
+    }
+  ],
+  "skills": [
+    "React",
+    "React Native",
+    "JavaScript (ES6+)",
+    "HTML5",
+    "CSS3",
+    "Firebase",
+    "Responsive UI Design",
+    "Mobile App Development",
+    "Git & GitHub",
+    "AI Prompt Evaluation",
+    "Rubric-Based Evaluation",
+    "Software Testing",
+    "Debugging",
+    "Technical Documentation",
+    "Research & Analysis"
+  ]
+}
